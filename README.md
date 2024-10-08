@@ -1,1 +1,5 @@
-Programming for DS
+## Favorite Programming Languages
+- Python
+- JavaScript
+- C++
+
