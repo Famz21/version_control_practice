@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 ## Favorite Programming Languages
 - Python
